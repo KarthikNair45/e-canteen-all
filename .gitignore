@@ -1,0 +1,33 @@
+e-canteen/node_modules/
+e-canteen/.expo/
+e-canteen/dist/
+e-canteen/web-build/
+e-canteen/expo-env.d.ts
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+e-canteen-backend/instance
+e-canteen-backend/__pycache__
